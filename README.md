@@ -15,9 +15,13 @@ Java core libraries, ArrayLists for dynamic data handling, Scanner for user inpu
 
 Structured Development Process:
 
+
 Requirement Analysis: Identify user needs like job posting, searching, filtering, and notifications.
+
 Top-Down Design/Modularization: Break into modules - User Interface, Job Management, Data Persistence, and Search Logic.
+
 Algorithm Development: Implement search algorithms for keyword and location matching, sorting by relevance.
+
 Implementation: Code the modules with clean, reusable methods and classes.
 
 Testing & Refinement: Test for different search scenarios, invalid inputs, and refine UI and performance based on feedback.
